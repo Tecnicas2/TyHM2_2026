@@ -4,7 +4,7 @@
 
 #### Grupo: La banda de carlitos
 
-![La Banda de Carlitos](<img width="2048" height="2048" alt="Gemini_Generated_Image_7zc1bj7zc1bj7zc1" src="https://github.com/user-attachments/assets/fd92b628-f29f-421e-824a-c04d77f1f7a7" />
+(<img width="2048" height="2048" alt="Gemini_Generated_Image_7zc1bj7zc1bj7zc1" src="https://github.com/user-attachments/assets/fd92b628-f29f-421e-824a-c04d77f1f7a7" />
 )
 
 [Profesor Ricardo Palma] https://github.com/ricardorpalma/TyHM_2026
