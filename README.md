@@ -12,4 +12,9 @@
 
 | NOMBRE Y APELLIDO | WHATSAPP | CORREO | ENLACE |
 |---|---|---|---|
-| Nombre Apellido | +54 9 261 XXXXXXX | correo@ejemplo.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Fabricio Montuori | +54 9 261 539 7760 | fabriciomontuori18@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Mateo Ambrogetti | +54 9 261  | 8@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Guillermo pelegrini | +54 9 261 | @gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Sol Mallar | +54 9 261  | @gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Celeste Herzog | +54 9 261  | @gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Pilar Zuñiga | +54 9 261  | @gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
