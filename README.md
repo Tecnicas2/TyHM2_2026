@@ -14,7 +14,7 @@
 | NOMBRE Y APELLIDO | WHATSAPP | CORREO | ENLACE |
 |---|---|---|---|
 | Fabricio Montuori | +54 9 261 539 7760 | fabriciomontuori18@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
-| Mateo Ambrogetti | +54 9 261  | 8@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Mateo Ambrogetti | +54 9 261 272 5726 | mateoambrogetti04@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
 | Guillermo Pellegrini | +54 9 261 573 2904 | guillermopellegrini1@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
 | Sol Mallar | +54 9 261  | @gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
 | Celeste Herzog | +54 9 261  | @gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
