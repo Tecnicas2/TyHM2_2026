@@ -17,5 +17,5 @@
 | Mateo Ambrogetti | +54 9 261 272 5726 | mateoambrogetti04@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
 | Guillermo Pellegrini | +54 9 261 573 2904 | guillermopellegrini1@gmail.com | [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
 | Sol Mallar | +54 9 261 472 2488  | mallarsol@hotmail.com.ar| [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
-| Celeste Herzog | +54 9 261  | celeeher@gmail.com| [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
-| Pilar Zuñiga | +54 9 261  | Pilizunigapizolatto@gmail.com| [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Celeste Herzog | +54 9 261 667 1314 | celeeher@gmail.com| [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
+| Pilar Zuñiga | +54 9 261 566 9790 | Pilizunigapizolatto@gmail.com| [Entrega Módulo 2](https://github.com/GuillermoPellegrini1/ENTREGA-TyH_2/tree/main/Modulo_2) |
